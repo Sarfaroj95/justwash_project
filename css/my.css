@@ -1,0 +1,14 @@
+
+.car_type{
+			font-size: 18px; 
+			padding: 3px; 
+			font-family: Times New Roman, Times, serif;
+		}
+
+		.service_type{
+			cursor: pointer;
+		}
+		.un_service{
+			cursor: pointer;
+			
+		}
